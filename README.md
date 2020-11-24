@@ -16,7 +16,6 @@ Automobile Insurance, Payer: Member Enrollment/Billing, Product line, Medication
 🛠️ Tools and Technology :-
 Atlassian Confluence, JIRA, Bitbucket, Azure DevOps, Blueprint, RDNG, Tableau, SQL Server, Power BI, Jenkins, Google Cloud Platform, GKE, Cloud Dataprep, Cloud Data Fusion, BigQuery, CI/CD, Docker, Kubernetes, Figma, Slack, Flex, HTML5, MS Office (Word, Excel, Power Point, Visio, SharePoint, Project), zOS - COBOL, MEGA V2/V3, RBD EGL, Clearcase
 
-
 <!--
 **IamVigneshC/IamVigneshC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
