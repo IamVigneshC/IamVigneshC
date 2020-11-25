@@ -18,10 +18,15 @@ Atlassian Confluence, JIRA, Bitbucket, Azure DevOps, Blueprint, RDNG, Tableau, S
 
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
+
 ⌨ Bitbucket Projects : https://bitbucket.org/iamvigneshc/
+
 💧 Docker Hub Registry Images : https://hub.docker.com/search?q=iamvignesh%2F
+
 📊 Tableau Public: https://public.tableau.com/profile/vignesh.chandra.bose#!/
+
 📗 Anaconda Projects/Notebooks: https://anaconda.org/iamvigneshc
+
 
 <!--
 **IamVigneshC/IamVigneshC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
