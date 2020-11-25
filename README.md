@@ -10,11 +10,14 @@
 
 • Sound exposure and experience in conducting stakeholder meeting, brainstorming, draft BRD, Functional/Technical Specs, develop User Stories and Data Flow Diagram. Strong knowledge of SDLC, Agile, BDD, DevOps.
 
+
 💼 Business Areas:-
 Automobile Insurance, Payer: Member Enrollment/Billing, Product line, Medication Management, Care Management (CM, UM, DM), Health Insurance Exchange, EDI 834, 837, ICD10, Provider, Rx Claims
 
+
 🛠️ Tools and Technology :-
 Atlassian Confluence, JIRA, Bitbucket, Azure DevOps, Blueprint, RDNG, Tableau, SQL Server, Power BI, Jenkins, Google Cloud Platform, GKE, Cloud Dataprep, Cloud Data Fusion, BigQuery, CI/CD, Docker, Kubernetes, Figma, Slack, Flex, HTML5, MS Office (Word, Excel, Power Point, Visio, SharePoint, Project), zOS - COBOL, MEGA V2/V3, RBD EGL, Clearcase
+
 
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
