@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile 👋
 
-## About ME: 
+## About Me: 
 
 ### Business Analyst & Techie
 
