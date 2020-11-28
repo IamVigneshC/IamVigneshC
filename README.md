@@ -9,7 +9,7 @@
 
 ⌨ Bitbucket Projects : https://bitbucket.org/iamvigneshc/
 
-💧 Docker Hub Registry Images : https://hub.docker.com/search?q=iamvignesh%2F
+🐳 Docker Hub Registry Images : https://hub.docker.com/search?q=iamvignesh%2F
 
 📊 Tableau Public: https://public.tableau.com/profile/vignesh.chandra.bose#!/
 
