@@ -2,7 +2,7 @@
 
 ## About Me: 
 
-### Business Analyst & Techie
+### Business Analyst Consultant, Product Owner & Techie
 
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
