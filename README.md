@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile 👋
+### Hi, Welcome to my GitHub Profile 👋
 
 ## About Me: 
 
