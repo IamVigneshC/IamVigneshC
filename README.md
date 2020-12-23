@@ -2,8 +2,9 @@
 
 ## About Me: 
 
-### Business Analyst Consultant, Product Owner & Techie
+### Business Analyst, Product Consultant & Techie
 
+🚀 GitHub Page : https://iamvigneshc.github.io/
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
 
