@@ -8,7 +8,7 @@
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
 
-⚫ Medium Posts: https://iamvigneshc.medium.com
+⚫ Medium Stories: https://iamvigneshc.medium.com
 
 ⌨ Bitbucket Projects : https://bitbucket.org/iamvigneshc/
 
