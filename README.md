@@ -8,6 +8,8 @@
 
 💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
 
+⚫ Medium Posts: https://iamvigneshc.medium.com
+
 ⌨ Bitbucket Projects : https://bitbucket.org/iamvigneshc/
 
 🐳 Docker Hub Registry Images : https://hub.docker.com/search?q=iamvignesh%2F
