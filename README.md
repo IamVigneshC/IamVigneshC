@@ -6,7 +6,7 @@
 
 🚀 GitHub Page : https://iamvigneshc.github.io/
 
-💻 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
+📝 Professional Blog : https://iamvigneshc-mydigitalworld.blogspot.com/
 
 ⚫ Medium Stories: https://iamvigneshc.medium.com
 
