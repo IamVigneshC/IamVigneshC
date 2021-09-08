@@ -2,7 +2,8 @@
 
 ## About Me: 
 
-### Business Analyst, Product Consultant & Techie
+### A Product Owner/Manager, Consultant, Business Analyst
+
 
 🚀 GitHub Page : https://iamvigneshc.github.io/
 
