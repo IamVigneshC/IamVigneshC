@@ -4,8 +4,8 @@
 
 ### A Product Owner/Manager, Consultant, Business Analyst
 
-![Image of SAFe](https://github.com/IamVigneshC/ProductManagement/blob/main/Scaled%20Agile/safe-5-popm.png)
-![Image of CSM](https://github.com/IamVigneshC/ProductManagement/blob/main/Scaled%20Agile/SCR20146-Seals-Final-CSM.jpeg)
+![Image of SAFe](https://github.com/IamVigneshC/ProductManagement/blob/main/Scaled%20Agile/safe-5-popm-git.png)
+![Image of CSM](https://github.com/IamVigneshC/ProductManagement/blob/main/Scaled%20Agile/SCR20146-Seals-Final-CSM-git.jpeg)
 
 
 🚀 GitHub Page : https://iamvigneshc.github.io/
